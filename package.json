@@ -1,0 +1,21 @@
+{
+    "name": "not-so-simple",
+    "displayName": "Not so simple",
+    "description": "Inspired by intangiblememory's theme 'simple'",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.46.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Not so simple",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Not so simple-color-theme.json"
+            }
+        ]
+    }
+}
