@@ -792,7 +792,7 @@
       "name": "Attribute IDs",
       "scope": "entity.other.attribute-name.id",
       "settings": {
-        "fontStyle": "normal",
+        "fontStyle": "",
         "foreground": "#ffd38df5"
       }
     },
@@ -800,7 +800,7 @@
       "name": "Attribute class",
       "scope": "entity.other.attribute-name.class.css",
       "settings": {
-        "fontStyle": "normal",
+        "fontStyle": "",
         "foreground": "#d3d3d3"
       }
     },
@@ -839,13 +839,13 @@
         "foreground": "#d3d3d3"
       }
     },
-    {
-      "name": "Bold",
-      "scope": "punctuation.definition.bold",
-      "settings": {
-        "foreground": "#dbdbdb"
-      }
-    },
+    // {
+    //   "name": "Bold",
+    //   "scope": "punctuation.definition.bold",
+    //   "settings": {
+    //     "foreground": "#dbdbdb"
+    //   }
+    // },
     {
       "name": "markup Italic",
       "scope": "markup.italic, punctuation.definition.italic,todo.emphasis",
@@ -1815,13 +1815,13 @@
         "foreground": "#77e5ff"
       }
     },
-    {
-      "name": "js/ts italic",
-      "scope": "entity.other.attribute-name.js,entity.other.attribute-name.ts,entity.other.attribute-name.jsx,entity.other.attribute-name.tsx,variable.parameter,variable.language.super",
-      "settings": {
-        "fontStyle": "italic"
-      }
-    },
+    // {
+    //   "name": "js/ts italic",
+    //   "scope": "entity.other.attribute-name.js,entity.other.attribute-name.ts,entity.other.attribute-name.jsx,entity.other.attribute-name.tsx,variable.parameter,variable.language.super",
+    //   "settings": {
+    //     "fontStyle": "italic"
+    //   }
+    // },
     {
       "name": "comment",
       "scope": "comment.line.double-slash,comment.block.documentation",
