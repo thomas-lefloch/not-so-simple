@@ -2,7 +2,9 @@
     "name": "not-so-simple",
     "displayName": "Not so simple",
     "description": "Inspired by intangiblememory's theme 'simple'",
-    "version": "0.0.1",
+    "version": "0.0.2",
+    "publisher": "SimpleShiva",
+    "repository": "https://github.com/thomas-lefloch/not-so-simple",
     "engines": {
         "vscode": "^1.46.0"
     },

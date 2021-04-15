@@ -1,13 +1,19 @@
 # README
-## This is the README for your extension "not-so-simple"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+Inspired by inspired by intangiblememory's theme [simple](https://themes.vscode.one/theme/intangiblememory/xZTZtxp4) (couldn't find marketplace link sorry)  
+Made with [Theme Studio for VS Code](https://themes.vscode.one/)
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+It feels like i've seen this somewhere, but i can't remember.
+
+TODO: add more/better images
+
+![](https://vscode-themes.nyc3.cdn.digitaloceanspaces.com/profiles/Ae6enydQGUfIjD2vCKMj8C8w4Av2/f1GrLqSM-thumbnail.jpeg?v=1617227365210)
+
+Feel free to fork or modify this theme
+
+## Modification from ThemeStudio
+- No italics on variables
+- No bolds on ponctuation
+- Only classes are red not constant
 
 **Enjoy!**
